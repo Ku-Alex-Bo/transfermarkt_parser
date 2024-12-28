@@ -1,0 +1,122 @@
+[
+    {
+        "player_id": 200000,
+        "name": "brian mcgarrity",
+        "shirt_number": null,
+        "full_name": null,
+        "birth_date": "Aug 12, 1988",
+        "national": "Scotland",
+        "position": "Goalkeeper",
+        "current_club": "Retired",
+        "ru_name": "Брайан МакГаррити",
+        "ru_full_name": null
+    },
+    {
+        "player_id": 200001,
+        "name": "keir milliken",
+        "shirt_number": null,
+        "full_name": null,
+        "birth_date": "Aug 22, 1987",
+        "national": "Scotland",
+        "position": "Midfield - Attacking Midfield",
+        "current_club": "Irvine Meadow XI FC",
+        "ru_name": "Кейр Милликен",
+        "ru_full_name": null
+    },
+    {
+        "player_id": 200002,
+        "name": "yusuf nuyan",
+        "shirt_number": null,
+        "full_name": null,
+        "birth_date": "Oct 10, 1989",
+        "national": "Türkiye",
+        "position": "Midfield",
+        "current_club": "Without Club",
+        "ru_name": "Юсуф Нуян",
+        "ru_full_name": null
+    },
+    {
+        "player_id": 200003,
+        "name": "kieran paterson",
+        "shirt_number": null,
+        "full_name": null,
+        "birth_date": null,
+        "national": "Scotland",
+        "position": "Defender - Right-Back",
+        "current_club": "Shortlees AFC",
+        "ru_name": "Киран Патерсон",
+        "ru_full_name": null
+    },
+    {
+        "player_id": 200004,
+        "name": "serkan acar",
+        "shirt_number": null,
+        "full_name": "Serkan Açar",
+        "birth_date": "Jan 1, 1986",
+        "national": "Türkiye",
+        "position": "Defender - Left-Back",
+        "current_club": "Retired",
+        "ru_name": "Серкан Акар",
+        "ru_full_name": "Серкан Ачар"
+    },
+    {
+        "player_id": 200005,
+        "name": "ali gorkem aydin",
+        "shirt_number": null,
+        "full_name": "Ali Görkem Aydın",
+        "birth_date": "Feb 22, 1987",
+        "national": "Türkiye",
+        "position": "Defender - Centre-Back",
+        "current_club": "Without Club",
+        "ru_name": "На утоплении Эдин",
+        "ru_full_name": "Али Гёркем Айдын"
+    },
+    {
+        "player_id": 200006,
+        "name": "spieler statistik",
+        "shirt_number": null,
+        "full_name": null,
+        "birth_date": null,
+        "national": null,
+        "position": null,
+        "current_club": null,
+        "ru_name": "Статистика игрока",
+        "ru_full_name": null
+    },
+    {
+        "player_id": 200007,
+        "name": "ramazan aydin",
+        "shirt_number": null,
+        "full_name": null,
+        "birth_date": "May 21, 1986",
+        "national": "Türkiye",
+        "position": "Goalkeeper",
+        "current_club": "Galata Spor Kulübü",
+        "ru_name": "Рамадан Айдин",
+        "ru_full_name": null
+    },
+    {
+        "player_id": 200008,
+        "name": "barbaros canbey",
+        "shirt_number": null,
+        "full_name": null,
+        "birth_date": "Dec 11, 1986",
+        "national": "Türkiye",
+        "position": "Goalkeeper",
+        "current_club": "Körfez Egitim Ve Gelisim Spor",
+        "ru_name": "Барбарос Канби",
+        "ru_full_name": null
+    },
+    {
+        "player_id": 200009,
+        "name": "recep onur celik",
+        "shirt_number": null,
+        "full_name": "Recep Onur Çelik",
+        "birth_date": "Mar 29, 1987",
+        "national": "Türkiye",
+        "position": "Midfield - Central Midfield",
+        "current_club": "Retired",
+        "ru_name": "Racep onur celik",
+        "ru_full_name": "Racep onur celik"
+    }
+]
